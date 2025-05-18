@@ -4,10 +4,10 @@ Desenvolvedora full stack com foco em soluções web, mobile e desktop.
 Apaixonada por tecnologia, educação e desenvolvimento de produtos eficientes.
 
 <a href="https://github.com/VanessaLimma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaLimma&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessadeliman&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/VanessaLimma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaLimma&layout=compact&langs_count=7&theme=solarized-light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessadeliman&layout=compact&langs_count=7&theme=solarized-light"/>
 </a>
 
 ## 🚀 Tecnologias principais:
