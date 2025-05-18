@@ -3,7 +3,12 @@
 Desenvolvedora full stack com foco em soluções web, mobile e desktop.  
 Apaixonada por tecnologia, educação e desenvolvimento de produtos eficientes.
 
-![Vanessa's GitHub trophies](https://github-profile-trophy.vercel.app/?username=vanessadeliman&theme=gruvbox)
+### 🏆 Minhas conquistas no GitHub
+
+<a href="https://github.com/vanessadeliman">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanessadeliman&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Profile Trophy" />
+</a>
+
 
 ## 🚀 Tecnologias principais:
 
