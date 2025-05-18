@@ -3,6 +3,16 @@
 Desenvolvedora full stack com foco em soluções web, mobile e desktop.  
 Apaixonada por tecnologia, educação e desenvolvimento de produtos eficientes.
 
+<a href="https://github.com/vanessadeliman">
+  <div style="display: inline-block; margin-right: 20px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessadeliman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </div>
+  <div style="display: inline-block;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessadeliman&layout=compact&langs_count=7&theme=dracula" />
+  </div>
+</a>
+
+
 ### 🏆 Minhas conquistas no GitHub
 
 <a href="https://github.com/vanessadeliman">
