@@ -1,4 +1,4 @@
-# Vanessa Limma
+# Vanessa Lima
 
 Desenvolvedora full stack com foco em soluções web, mobile e desktop.  
 Apaixonada por tecnologia, educação e desenvolvimento de produtos eficientes.
