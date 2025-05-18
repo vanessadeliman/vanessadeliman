@@ -36,7 +36,7 @@ Apaixonada por tecnologia, educação e desenvolvimento de produtos eficientes.
 
 ### ⏱️ Minhas estatísticas do WakaTime
 
-![WakaTime Stats](https://wakatime.com/badge/user/vanessadeliman.svg)
+[![WakaTime Stats](https://wakatime.com/badge/user/vanessadeliman.svg)](https://wakatime.com/@vanessadeliman)
 
 ---
 
