@@ -3,8 +3,8 @@
 Desenvolvedora full stack com foco em soluções web, mobile e desktop.  
 Apaixonada por tecnologia, educação e desenvolvimento de produtos eficientes.
 
-<a href="https://github.com/vanessadeliman">
-  <div style="display: inline-block; margin-right: 20px;">
+<a href="https://github.com/vanessadeliman" align="center">
+  <div style="display: inline-block; margin-right: 30px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessadeliman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </div>
   <div style="display: inline-block;">
@@ -12,13 +12,30 @@ Apaixonada por tecnologia, educação e desenvolvimento de produtos eficientes.
   </div>
 </a>
 
-
 ### 🏆 Minhas conquistas no GitHub
 
 <a href="https://github.com/vanessadeliman">
   <img src="https://github-profile-trophy.vercel.app/?username=vanessadeliman&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Profile Trophy" />
 </a>
 
+<a href="https://github.com/vanessadeliman">
+  <div style="display: flex; gap: 20px; align-items: center;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessadeliman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessadeliman&layout=compact&langs_count=7&theme=dracula" />
+  </div>
+</a>
+
+---
+
+<a href="https://github.com/vanessadeliman">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanessadeliman&theme=dracula&row=1&column=6" alt="GitHub trophies" />
+</a>
+
+---
+
+### ⏱️ Minhas estatísticas do WakaTime
+
+![WakaTime Stats](https://wakatime.com/badge/user/vanessadeliman.svg)
 
 ## 🚀 Tecnologias principais:
 
