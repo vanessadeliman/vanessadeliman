@@ -34,12 +34,6 @@ Apaixonada por tecnologia, educação e desenvolvimento de produtos eficientes.
 
 ---
 
-### ⏱️ Minhas estatísticas do WakaTime
-
-[![WakaTime Stats](https://wakatime.com/badge/user/vanessadeliman.svg)](https://wakatime.com/@vanessadeliman)
-
----
-
 ## 📫 Como me encontrar:
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/vanessa-de-lima-nascimento-b3124b19b/))
