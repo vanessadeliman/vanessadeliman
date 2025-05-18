@@ -1,11 +1,11 @@
 # Vanessa Lima
 
-Desenvolvedora full stack com foco em soluções web, mobile e desktop.  
-Apaixonada por tecnologia, educação e desenvolvimento de produtos eficientes.
+Desenvolvedora Full Stack focada em soluções web, mobile e desktop.  
+Apaixonada por tecnologia, educação e pelo desenvolvimento de produtos eficientes e impactantes.
 
 ---
 
-## 🚀 Tecnologias principais:
+## 🚀 Tecnologias principais
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -19,14 +19,16 @@ Apaixonada por tecnologia, educação e desenvolvimento de produtos eficientes.
 
 ---
 
-<a href="https://github.com/vanessadeliman">
-  <div style="display: flex; gap: 20px; align-items: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessadeliman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessadeliman&layout=compact&langs_count=7&theme=dracula" />
-  </div>
+## 📊 Estatísticas GitHub
+
+<a href="https://github.com/vanessadeliman" style="display:flex; gap:20px; align-items:center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessadeliman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessadeliman&layout=compact&langs_count=7&theme=dracula" />
 </a>
 
 ---
+
+## 🏆 Conquistas no GitHub
 
 <a href="https://github.com/vanessadeliman">
   <img src="https://github-profile-trophy.vercel.app/?username=vanessadeliman&theme=dracula&row=1&column=6" alt="GitHub trophies" />
@@ -34,9 +36,11 @@ Apaixonada por tecnologia, educação e desenvolvimento de produtos eficientes.
 
 ---
 
-## 📫 Como me encontrar:
+## 📫 Como me encontrar
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/vanessa-de-lima-nascimento-b3124b19b/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/vanessa-de-lima-nascimento-b3124b19b/)
 - 📧 vanessadeliman@outlook.com
+
+---
 
 Obrigada por visitar meu perfil! ✨
