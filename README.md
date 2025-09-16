@@ -15,6 +15,18 @@ Apaixonada por tecnologia, educação e pelo desenvolvimento de produtos eficien
 ![Firebird](https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+Aqui estão alguns projetos em que contribuí e que refletem minhas habilidades em desenvolvimento Web, Mobile e Desktop:
+
+| Projeto | Descrição | Tecnologias | Status |
+|---------|-----------|------------|--------|
+| **EresOS** | Sistema de gestão de oficinas, com OS, vendas, checklists e notificações via WhatsApp | Flutter, Node.js, MySQL | Em andamento |
+| **SCI Mobile** | Sistema de apontamento de produção | Flutter, Node.js, MySQL | Em andamento |
+| **Powersales** | Sistema de gestão de vendas | Flutter, Delphi, Firebird | Concluido |
+| **Contagem de Espermatozoides (TCC)** | Sistema que analisa imagens de microscópio e detecta células usando IA | Flutter, Python, YOLO, OpenCV | Concluído |
+| **App de Checklist** | Aplicativo para inspeção de veículos com interface interativa | Flutter, Typebot, Docker | Em uso |
+| **Integração Mercado Pago** | Implementação de pagamentos em app mobile | Flutter, TypeScript, Mercado Pago API | Em andamento |
+| **Agend** | Sistema de agendamento voltado para microempreendedores do setor de estética | Flutter, TypeScript, Mercado Pago API | Em andamento |
+
 ## 📊 Estatísticas GitHub
 
 <a href="https://github.com/vanessadeliman" style="display:flex; gap:20px; align-items:center;">
