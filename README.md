@@ -23,7 +23,7 @@ Aqui estão alguns projetos em que contribuí e que refletem minhas habilidades 
 | **SCI Mobile** | Sistema de apontamento de produção | Flutter, Node.js, MySQL | Em andamento |
 | **Powersales** | Sistema de gestão de vendas | Flutter, Delphi, Firebird | Concluido |
 | **Contagem de Espermatozoides (TCC)** | Sistema que analisa imagens de microscópio e detecta células usando IA | Flutter, Python, YOLO, OpenCV | Concluído |
-| **App de Checklist** | Aplicativo para inspeção de veículos com interface interativa | Flutter, Typebot, Docker | Em uso |
+| **App de Checklist** | Aplicativo para inspeção de veículos com interface interativa | Flutter, Typebot, Docker | Concluído |
 | **Integração Mercado Pago** | Implementação de pagamentos em app mobile | Flutter, TypeScript, Mercado Pago API | Em andamento |
 | **Agend** | Sistema de agendamento voltado para microempreendedores do setor de estética | Flutter, TypeScript, Mercado Pago API | Em andamento |
 
